@@ -5,7 +5,7 @@ import csv
 import time
 
 # --- API v2 ---
-client = tweepy.Client(bearer_token="AAAAAAAAAAAAAAAAAAAAAHs31AEAAAAA2g10YoU1ghmoMKLLSjk%2FQb9rtWM%3DmhtDZOIgMIS0j2aNpvx9qzxXOTzbDVBpKji7Dx5qXPnoErMUth")
+client = tweepy.Client(bearer_token="")
 
 # --- Từ khóa thay thế trending ---
 keywords = ["Việt Nam", "Tết", "giá xăng", "Hà Nội", "TPHCM", "chatGPT"]
