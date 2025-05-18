@@ -1,0 +1,236 @@
+Index: hot_vi_tweets.csv
+===================================================================
+diff --git a/hot_vi_tweets.csv b/hot_vi_tweets.csv
+deleted file mode 100644
+--- a/hot_vi_tweets.csv	(revision aa697bb759eeeed60379bd88d84aa7d7de1980d5)
++++ /dev/null	(revision aa697bb759eeeed60379bd88d84aa7d7de1980d5)
+@@ -1,89 +0,0 @@
+-Keyword,Text,Created_At,Likes,Retweets
+-Việt Nam,Em gái d.âm việt nam vú to,2025-05-14 20:02:47+00:00,0,0
+-Việt Nam,Việt Nam fan còn ai ở đây không?? #ENGFAxChristopheGuillarme,2025-05-14 19:30:01+00:00,1,1
+-Việt Nam,@PiNews2024 Kiểu này chắc đóng thuê contener  chuyển cuc block chain về thuê kho ở việt nam lưu giữ quá .oải thiệt.,2025-05-14 19:12:52+00:00,0,0
+-Việt Nam,"@PiCoreTeam Tôi đăng ký cho Doanh nghiệp của tôi , Ở Việt Nam . Chương trình này quá Tuyệt vời 👍🏼",2025-05-14 19:05:43+00:00,1,0
+-Việt Nam,"Tôi rất hạnh phúc , tự hào khi gặp và đồng hành cùng các em trong team Việt Nam 🇻🇳  @Kimcuongnguy @phonglantim6702 @2402_tu @heyiamclarice @tzu_v1213 @thanh775435 @Aries44905733 @NganPhan0711 @ktuyen0820 Vì luôn cùng nhau hoàn thành các mục tiêu và dự án để ủng hộ https://t.co/6dWLZJdQXa",2025-05-14 18:57:03+00:00,0,0
+-Việt Nam,"Tôi rất hạnh phúc , tự hào khi gặp và đồng hành cùng các em trong team Việt Nam 🇻🇳  @Kimcuongnguy @phonglantim6702 @2402_tu @heyiamclarice @tzu_v1213 @thanh775435 @Aries44905733 @NganPhan0711 @ktuyen0820 Vì luôn cùng nhau hoàn thành các mục tiêu và dự án để ủng hộ https://t.co/6dWLZJdQXa",2025-05-14 18:52:51+00:00,1,0
+-Việt Nam,"@chong_xuyentac @Dog_ThienNhan @EchoOfTruthVN Tiếp nè: nhu cầu ldong tại Hàn, Nhật... đối với lao động vnam là công việc phổ thông như nông dân, phụ hồ... vì dân nước họ chê ko làm. Nói về tỉ giá: tại sao sau 50 năm kinh tế việt nam lõ vậy? Câu trả lời là tham nhũng + chính sách ngu",2025-05-14 18:27:04+00:00,1,0
+-Việt Nam,"@moonbags_io @GiveRep Chúc mừng @moonbags_io   Ae việt nam cùng tương tác, va mạnh kiếm rep nha ae 🔥 @GiveRep",2025-05-14 18:24:13+00:00,0,0
+-Việt Nam,@motthoidenho75 Trumb mới nhận máy bay Chủ tịch EU mới bị toà khui vụ vắc xin lại Chắc là do báo lá cải đăng tin. 1. Nếu tài giỏi thế sao VN cộng hoà ko tồn tại đến giờ để cs lãnh đạo. 2. Tại sao Mỹ và các nước khác lại rút khỏi miền nam việt nam sống chết mặc bay,2025-05-14 18:15:54+00:00,0,0
+-Việt Nam,Hãy xem video của tình yêu việt nam ♥️! #TikTok https://t.co/Oe1ck0tZME,2025-05-14 18:13:10+00:00,0,0
+-Việt Nam,🎉 Honarmrooz chính thức sáp nhập với Nhà cái uy tín Vĩnh Phát Mobile 📈 Hướng đến nền tảng đánh giá nhà cái uy tín hàng đầu Việt Nam   📌 Xem chi tiết về sự sáp nhập và định hướng phát triển tại:https://t.co/g3XPtMKnTn,2025-05-14 18:13:06+00:00,0,0
+-Việt Nam,Dân phải mua sản phẩm làm ra từ chính tiền của mình😡 Nghĩa là việt cộng sẽ làm theo lịnh của tên vượng để biến của dân thành của riêng và đưa việt nam vô sâu hơn cái thòng lọng mà tàu cộng đã giăng sẳn👍,2025-05-14 18:13:04+00:00,0,0
+-Việt Nam,"Hackathon độc quyền của Aptos tại Việt Nam 🇻🇳  Bạn đã sẵn sàng chưa, các builder? 💪 Sự kiện Hackathon lớn nhất đã chính thức khởi động!🚀 📌 Đăng ký ngay: https://t.co/4Fkjq4vxkh  💰 Tổng giải thưởng hơn 400,000 USD 🎓 Track đặc biệt dành cho sinh viên 🧠 https://t.co/FNaWGZv4Da",2025-05-14 18:12:43+00:00,1,0
+-Việt Nam,"TẨY CHAY HÀNG VIỆT NAM! LẬT ĐỔ CỘNG SẢN! Việt cộng đăng lại bài với luận điệu bưng bô sau khi bị tố xóa bài và giấu nhiều thông tin quan trọng! Nó cho thấy tên vượng đang rửa tiền cho đám việt cộng cấp cao, lấy tiền của dân kinh doanh rồi cướp luôn👍 https://t.co/7KmSyLjGrS",2025-05-14 18:12:12+00:00,0,0
+-Việt Nam,Hãy xem video của tình yêu việt nam ♥️! #TikTok https://t.co/zpsijbTiDu,2025-05-14 18:08:38+00:00,0,0
+-Việt Nam,"Porshe 911 992.2 có mặt tại Việt Nam, giá bán từ 8.87 tỷ đồng  https://t.co/ds0qiXrqt7",2025-05-14 18:07:25+00:00,0,0
+-Việt Nam,Oánh tới Việt Nam còn nghe cái bốp luôn. Phẫn nộ dữ dội  BOUND BY THE FATE   #MyGoldenBloodEP10 https://t.co/vRPmWiRXTH,2025-05-14 18:05:38+00:00,1,0
+-Việt Nam,"Địa chỉ: 19 Đường Bình Đức, Phường 15, Quận 8, Hồ Chí Minh, Việt Nam. Phone: 0984123886. Email: info@k8bet.casa. Website: https://t.co/DeuCvq5VIc",2025-05-14 18:04:30+00:00,0,0
+-Việt Nam,@motthoidenho75 @WW3finalboss @grok  Việt nam cộng hoà sát cánh được với ukraine không???,2025-05-14 18:04:00+00:00,0,0
+-Việt Nam,Việt Nam 🇻🇳 - Thái Lan 🇹🇭  Cổ đông viên cuồng nhiệt 🇻🇳❤️🇻🇳 https://t.co/wnrv4Njo7O,2025-05-14 17:54:45+00:00,1,0
+-Tết,"Ngày Tết đến, mọi người thường chúc nhau những điều tốt đẹp, mong một năm mới an khang thịnh vượng, vạn sự như ý.",2025-05-14 20:18:15+00:00,0,0
+-Tết,[FULL] Cặp đôi SG rủ thằng bạn thân của anh ny qua nhà chơi Tết và cái kết 3some sung sướng (P2),2025-05-14 19:10:16+00:00,1,0
+-Tết,[FULL] Cặp đôi SG rủ thằng bạn thân của anh ny qua nhà chơi Tết và cái kết 3some sung sướng (P1),2025-05-14 19:10:00+00:00,1,0
+-Tết,"[FULL] Mùng 3 Tết sang nhà thằng bạn cùng lớp chơi, thấy bố mẹ nó không có nhà nên gạ sục cho nó khai pháo đầu năm luôn (P1-5)",2025-05-14 19:00:23+00:00,1,0
+-Tết,[FULL] Mùng 1 Tết 2 anh em đang làm mâm cúng thì bị chủ nợ tới nhà hấp diêm cấn nợ (P3-3),2025-05-14 19:00:02+00:00,0,0
+-Tết,"Thằng em họ tận mùng 10 mới lên SG, nghỉ Tết lâu nứng cặc quá hay sao mà ông (P1)",2025-05-14 18:49:02+00:00,4,1
+-Tết,"@Dungdamduc2023 Tính ra quen thằng Mèo gì đó,  hắc cug bik đụ te tét...r giờ làm call nữa mà cái Lol vẫn ngon, nhìn cái cơ lổ lol của ẻm là bjt khít ngon r nè. Kể ra sướng vãi lol ra chứ. Làm Call vừa đc thõa mãn cơn nứng Lol, vừa có tiền.  😏",2025-05-14 18:25:00+00:00,0,0
+-Tết,"Ngày Tết, không khí rộn ràng, nhà nhà trang hoàng, cùng nhau đón chào năm mới với những ước vọng tốt đẹp và niềm tin.",2025-05-14 17:23:22+00:00,0,0
+-Tết,@Bicansa69 thế lại không biết bít tết rồi :)),2025-05-14 17:20:15+00:00,0,0
+-Tết,Chời má đoạn ni chú giống ba tui ghê ngồi mà rung đùi là ăn tét liền   BOUND BY THE FATE #MyGoldenBloodEP10 https://t.co/8yL1uhmu9N,2025-05-14 16:46:38+00:00,1,0
+-Tết,"Múa Lân trong Tết Trung Thu ở Hà Nội, tháng 9 năm 1913. --------------------- Chú thích của nhà quay phim: Danse du lion et du dragon à l' occasion du Têt Trung-thu , fête de la mi-automne ( 15e jour du 8e mois du calendrier lunaire ) , appelée également fête des enfants ; https://t.co/gso0f8Roab",2025-05-14 16:41:26+00:00,0,0
+-Tết,Tết pi sắp đến nơi rồi ae pionner ơi  Hãy chúc mừng pi network đã đến https://t.co/VTzOLjv67B,2025-05-14 16:32:15+00:00,15,0
+-Tết,[FULL] Mùng 1 Tết 2 anh em đang làm mâm cúng thì bị chủ nợ tới nhà hấp diêm cấn nợ (P2-3),2025-05-14 16:13:06+00:00,11,5
+-Tết,[FULL] Mùng 1 Tết 2 anh em đang làm mâm cúng thì bị chủ nợ tới nhà hấp diêm cấn nợ (P1-3),2025-05-14 16:12:56+00:00,14,5
+-Tết,"Ngày Tết, không khí rộn ràng khắp phố phường, mọi người đều tất bật chuẩn bị đón chào một năm mới an khang, thịnh vượng.",2025-05-14 15:20:46+00:00,0,0
+-Tết,"Ngày Tết đến, không khí rộn ràng khắp nơi, nhà nhà trang hoàng, chuẩn bị đón một năm mới an lành, hạnh phúc, ngập tràn tiếng cười.",2025-05-14 14:50:53+00:00,0,0
+-Tết,Bé đưa mông cho a đẩy lút cán tét đỏ hết 🍑 bé Full clip ib tele : https://t.co/kpUPDCovy0 (99k vĩnh viễn) https://t.co/6jIoQwFLxI,2025-05-14 14:39:16+00:00,360,105
+-Tết,Giờ mà có cái lồn của em ở đây chắc a nắc cho Tét luôn quá 😜  Full clip Khoa có tại nhóm    Telegram https://t.co/NzXyHeAxZM Nhanh tay ib để vào xem full nhé ở nhóm còn có cả Kho phim trai đẹp dâm🕺 https://t.co/sx1GQJc2VZ,2025-05-14 14:12:34+00:00,25,13
+-Tết,[FULL] Trai thẳng cực phẩm nói dối vợ đi chúc Tết rồi ra cao tốc chơi cumcontrol outdoor nứng bể cặc (P3-3),2025-05-14 13:53:23+00:00,8,4
+-Tết,"[FULL] Mùng 3 Tết sang nhà thằng bạn cùng lớp chơi, thấy bố mẹ nó không có nhà nên gạ sục cho nó khai pháo đầu năm luôn (P5-5)",2025-05-14 13:50:33+00:00,100,31
+-giá xăng,"Không có lạm phát, và giá xăng, năng lượng, thực phẩm, và hầu như mọi thứ khác đang GIẢM!!! FED phải hạ LÃI SUẤT, như châu Âu và Trung Quốc đã làm. Cógì sai với Powell, luôn chậm trễ? Điều đó không công bằng với nước Mỹ, nơi đang sẵn sàng nở rộ!",2025-05-13 19:22:35+00:00,0,0
+-giá xăng,"@admvhv Luc dịch tăng giá điện , giảm giá xăng hèn vc",2025-05-12 07:57:18+00:00,2,0
+-giá xăng,"@meomeo_ab Tăng giá điện mùa nóng, giảm giá xăng mùa covid. Moá, tụi nó lương thiện gớm.",2025-05-10 12:17:26+00:00,0,0
+-giá xăng,@nhatotvn Lúc dịch giảm giá xăng tăng giá điện hèn vcl,2025-05-10 01:03:35+00:00,0,0
+-giá xăng,"Giá xăng, dầu trong thời gian gần đây đã ghi nhận sự hạ nhiệt đáng kể. Xu hướng giảm giá đang được duy trì và có khả năng duy trì sự ổn định này trong những tháng tới, mang lại lợi ích cho người tiêu dùng và góp phần giảm áp lực cho nền kinh tế.",2025-05-09 12:07:01+00:00,3,0
+-giá xăng,"@ha_myli11960 Giảm giá xăng dầu, sức mua người tiêu dùng tăng lên.",2025-05-09 10:20:39+00:00,0,0
+-giá xăng,GIÁ XĂNG LÊN TRÊN 32K 1 LÍT mà CU CHƯA DÀI NỔI 16cm THÌ QUÁ BUỒN Sở hữu ngay 1 LIỆU TRÌNH TKT DVẬT Sử dụng an toàn-hiệu quả liền tay trong 1-4 tuần sử dụng KHÔNG TO DÀI SHOP ĐỀN LẠI GẤP 5 LẦN Ship qte chỉ 5-7 ngày https://t.co/PlaCJMoPSQ https://t.co/N0KHtOAZBQ https://t.co/KpKUjxQ68D,2025-05-09 08:59:34+00:00,0,1
+-giá xăng,"Giá xăng RON 95 về sát 19.000 đồng một lít  Giá xăng RON 95-III (loại phổ biến trên thị trường) giảm 410 đồng, xuống 19.170 đồng một lít. E5 RON 92 bớt 380 đồng, ở mức 18.770 đồng. https://t.co/hI6SRp8Jse",2025-05-08 07:38:25+00:00,0,0
+-Hà Nội,Dịu dàng như mùa Thu Hà Nội.  #ENGFAxChristopeGuillarme #อิงฟ้ามหาชน @EWaraha https://t.co/UbRcf1cZCN,2025-05-14 20:44:06+00:00,0,0
+-Hà Nội,Tìm top gym hà nội ạ (bot 204),2025-05-14 20:35:25+00:00,0,0
+-Hà Nội,@nguyenhavy206 Đây ở hà nội đây cậu !,2025-05-14 20:10:51+00:00,0,0
+-Hà Nội,"Mình 2002 1m75 tiêu chuẩn 16cm chị em nào kết nối giao lưu không ạ đảm bảo sạch sẽ muốn thì giấy xét nghiệm kết quả cũng được. Có chị em ở Thái Nguyên, Hà Nội kh vậy",2025-05-14 19:19:27+00:00,0,0
+-Hà Nội,Nam Hà Nội  Cần tìm nữ dâm Quét telegram liên hệ tôi nhé https://t.co/Wj5Dy0snrD,2025-05-14 19:13:23+00:00,0,0
+-Hà Nội,@_fwbvn  Nam - Hà Nội  Tìm nữ  Quét telegram liên hệ tôi nhé https://t.co/APz7MWWnya,2025-05-14 19:12:00+00:00,0,0
+-Hà Nội,"[FULL] Chịch em hot bot Hà Nội mông to dâm đãng, nhìn hình xăm là biết tên liền (P2-2)",2025-05-14 19:11:08+00:00,0,0
+-Hà Nội,Em tìm ons tại Hà Nội ạ Rảnh mai mình đi punic nha.,2025-05-14 18:58:25+00:00,2,0
+-Hà Nội,Em tìm ons tại Hà Nội ạ Rảnh mai mình đi punic nha,2025-05-14 18:58:19+00:00,0,0
+-Hà Nội,Mây tìm fwb tại Hà Nội ạ. Mai đi date với Mây lun nha.,2025-05-14 18:56:40+00:00,4,0
+-Hà Nội,Mây tìm fwb tại Hà Nội ạ. Mai đi date với Mây lun nha,2025-05-14 18:56:35+00:00,3,0
+-Hà Nội,Em tìm bạn làm tình ở Hà Nội ạ Rảnh thì qua phong em luôn nha.,2025-05-14 18:51:02+00:00,3,0
+-Hà Nội,Em tìm bạn làm tình ở Hà Nội ạ Rảnh thì qua phong em luôn nha,2025-05-14 18:50:57+00:00,1,0
+-Hà Nội,Em tìm nam địt ở Hà Nội ạ Đi pucnic với em đêm nay không??,2025-05-14 18:46:56+00:00,5,0
+-Hà Nội,Em tìm nam địt ở Hà Nội ạ Đi pucnic với em đêm nay không?,2025-05-14 18:46:51+00:00,2,0
+-Hà Nội,"@TaiZiro22 Hà Nội ạ, nice to meet you, một linh hồn tỉnh thức",2025-05-14 18:42:56+00:00,0,0
+-Hà Nội,Em tìm nam làm tình ở Hà Nội ạ Chấm em gửi địa chỉ cụ thể nha.,2025-05-14 18:41:54+00:00,0,0
+-Hà Nội,Em tìm nam làm tình ở Hà Nội ạ Chấm em gửi địa chỉ cụ thể nha,2025-05-14 18:41:49+00:00,0,0
+-Hà Nội,Em gái Cầu Giấy Hà Nội,2025-05-14 18:40:31+00:00,1,0
+-Hà Nội,Hà Nội: Cưỡng chế kiểm đếm bắt buộc với 107 trường hợp có đất bị thu hồi https://t.co/2IP1jrPmCM,2025-05-14 18:32:07+00:00,0,0
+-TPHCM,"Tui nam thẳng 2007, Tìm fwb ở tpHCM ạ, ib để thấy mặt tui, còn ko thì chấm đi tui ib, https://t.co/EXFK43EwO4",2025-05-14 18:09:28+00:00,0,0
+-TPHCM,Mình tìm ons tại TPHCM để giải tỏa ạ. https://t.co/phQrF6Yy1I,2025-05-14 18:06:05+00:00,0,0
+-TPHCM,"@vincent31473580 Hậu quả do bỏ CA cấp Huyện, nên Conan cấp Phường lên ngôi sấc láo là hiển nhiên.  Thí dụ : nếu CA phường ở Vũng Tàu đánh dân , dân phải làm đơn lên TPHCM để nộp . Đi về một ngày a lê rờ tua  250 km !!!",2025-05-14 18:00:14+00:00,0,0
+-TPHCM,Mình tìm ons tại TPHCM để giải tỏa ạ. Chỉ có hứng thì gặp làm tình rồi thôi nha.,2025-05-14 17:28:18+00:00,37,1
+-TPHCM,Mình tìm ons tại TPHCM để giải tỏa ạ. Chỉ có hứng thì gặp làm tình rồi thôi nha,2025-05-14 17:28:11+00:00,4,0
+-TPHCM,Dịch vụ đăng ký kinh doanh tại phường Đông Hòa (TP HCM) https://t.co/cN6ntYvjjV via @DUAN24H.NET,2025-05-14 16:17:15+00:00,0,0
+-TPHCM,Mn cho em xin vài chỗ outdoor ở tphcm vào T7 với ạ,2025-05-14 16:06:03+00:00,0,0
+-TPHCM,"Hà Nội và TPHCM dự kiến sẽ áp dụng tiêu chuẩn khí thải nghiêm ngặt hơn so với các tỉnh, thành phố khác trên cả nước, dự kiến bắt đầu áp dụng từ năm 2026.",2025-05-14 15:53:28+00:00,0,0
+-TPHCM,Tìm les ở tphcm ạ,2025-05-14 15:38:20+00:00,0,0
+-TPHCM,Mình sub thẳng cần tìm dom tphcm cum hành cu kín đáo chủ yếu sướng không qh tình cảm ạ. Ai gu dễ với có kinh nghiệm ib mình nha tôn trọng mn,2025-05-14 15:23:12+00:00,2,0
+-TPHCM,Mình tìm ons tại TPHCM để giải tỏa ạ.,2025-05-14 15:17:46+00:00,17,0
+-TPHCM,Mình tìm ons tại TPHCM để giải tỏa ạ,2025-05-14 15:17:41+00:00,12,0
+-TPHCM,Ở đây có nam nào dâm ko? Như hơi chubby. Cần tìm anh trai ở tphcm! Tim ib,2025-05-14 15:05:50+00:00,20,0
+-TPHCM,E mún thử lm đĩ nam nên lần đầu giá rẻ ai cần cmt cho e e ib cho lv tphcm 16cm đầy gân,2025-05-14 14:59:16+00:00,0,0
+-TPHCM,E 16t 16cm đầy gân e cần tiền nên e có thể giải quyết nhu cầu tình dục nên cmt đi e ib gửi zl cho tphcm,2025-05-14 14:51:55+00:00,0,0
+-TPHCM,Kẹt tiền quá nên e giải quyết nhu cầu tình dục nên ib e e gửi zalo cho tphcm,2025-05-14 14:47:40+00:00,0,0
+-TPHCM,Ai đó lại cướp zin con cu e đi tphcm ib e điiiii e cần bị địt nát con cu https://t.co/QrY3t0f2SC,2025-05-14 14:41:10+00:00,0,0
+-TPHCM,Tìm hf slam sớm sáng mai TPHCM  https://t.co/Gs4ltSHa0t,2025-05-14 14:16:13+00:00,0,0
+-TPHCM,minh bot tìm top tphcm,2025-05-14 14:08:00+00:00,1,0
+-TPHCM,@hogphuoc2003 Cái gì. Anh nhắn tin cho em qua nhiều rồi  sao không thấy  vào tphcm.  Anh tên quý  0587260924.là  bố nuôi nhân tâm trong giấc mơ của em.  Mà  em không vào  cứ  đăng lên  hoài ta.  rồi  nghĩ ai đang  thất tình  Yêu anh đi  anh cho ỷ thiên kiếm  và cởi  phượng hoàng,2025-05-14 13:56:07+00:00,0,0
+Index: code1.1.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>\r\nimport tweepy\r\nimport pandas as pd\r\nimport csv\r\nimport time\r\n\r\n# --- API v2 ---\r\nclient = tweepy.Client(bearer_token=\"AAAAAAAAAAAAAAAAAAAAAHs31AEAAAAA2g10YoU1ghmoMKLLSjk%2FQb9rtWM%3DmhtDZOIgMIS0j2aNpvx9qzxXOTzbDVBpKji7Dx5qXPnoErMUth\")\r\n\r\n# --- Từ khóa thay thế trending ---\r\nkeywords = [\"Việt Nam\", \"Tết\", \"giá xăng\", \"Hà Nội\", \"TPHCM\", \"chatGPT\"]\r\n\r\ncsv_file = \"hot_vi_tweets.csv\"\r\nwith open(csv_file, mode='w', encoding='utf-8-sig', newline='') as f:\r\n    writer = csv.writer(f)\r\n    writer.writerow([\"Keyword\", \"Text\", \"Created_At\", \"Likes\", \"Retweets\"])\r\n\r\nfor keyword in keywords:\r\n    query = f'\"{keyword}\" lang:vi -is:retweet -is:explicit'\r\n    print(f\"\uD83D\uDCE5 Đang tìm kiếm: {keyword}\")\r\n\r\n    while True:\r\n        try:\r\n            tweets = client.search_recent_tweets(\r\n                query=query,\r\n                max_results=50,\r\n                tweet_fields=['created_at', 'lang', 'public_metrics']\r\n            )\r\n            break  # nếu thành công thì thoát vòng while\r\n        except tweepy.TooManyRequests as e:\r\n            print(\"⚠\uFE0F Quá nhiều yêu cầu! Đang tạm dừng 60 giây...\")\r\n            time.sleep(60)\r\n        except Exception as e:\r\n            print(f\"❌ Lỗi khác: {e}\")\r\n            break\r\n\r\n    if tweets and tweets.data:\r\n        with open(csv_file, mode='a', encoding='utf-8-sig', newline='') as f:\r\n            writer = csv.writer(f)\r\n            for tweet in tweets.data:\r\n                writer.writerow([\r\n                    keyword,\r\n                    tweet.text.replace('\\n', ' '),\r\n                    tweet.created_at,\r\n                    tweet.public_metrics['like_count'],\r\n                    tweet.public_metrics['retweet_count']\r\n                ])\r\n    else:\r\n        print(f\"⚠\uFE0F Không tìm thấy tweet nào với từ khóa '{keyword}'\")\r\n\r\nprint(\"✅ Hoàn tất. Dữ liệu đã được lưu vào file:\", csv_file)
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/code1.1.py b/code1.1.py
+--- a/code1.1.py	(revision aa697bb759eeeed60379bd88d84aa7d7de1980d5)
++++ b/code1.1.py	(date 1747305111144)
+@@ -5,10 +5,10 @@
+ import time
+ 
+ # --- API v2 ---
+-client = tweepy.Client(bearer_token="AAAAAAAAAAAAAAAAAAAAAHs31AEAAAAA2g10YoU1ghmoMKLLSjk%2FQb9rtWM%3DmhtDZOIgMIS0j2aNpvx9qzxXOTzbDVBpKji7Dx5qXPnoErMUth")
++client = tweepy.Client(bearer_token="AAAAAAAAAAAAAAAAAAAAAOY51QEAAAAADeiJPme3b5sGYYGvO1leI97rac0%3D5RGHareOxpe5fNaUH5AUiubC0GzHvszBVTheVTmmxwUmswQlzD")
+ 
+ # --- Từ khóa thay thế trending ---
+-keywords = ["Việt Nam", "Tết", "giá xăng", "Hà Nội", "TPHCM", "chatGPT"]
++keywords = ["Công nghệ", "Chuyển đổi số"]
+ 
+ csv_file = "hot_vi_tweets.csv"
+ with open(csv_file, mode='w', encoding='utf-8-sig', newline='') as f:
+@@ -16,7 +16,7 @@
+     writer.writerow(["Keyword", "Text", "Created_At", "Likes", "Retweets"])
+ 
+ for keyword in keywords:
+-    query = f'"{keyword}" lang:vi -is:retweet -is:explicit'
++    query = f'"{keyword}" lang:vi -is:retweet'
+     print(f"📥 Đang tìm kiếm: {keyword}")
+ 
+     while True:
+Index: .idea/.gitignore
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/.gitignore b/.idea/.gitignore
+new file mode 100644
+--- /dev/null	(date 1747305111158)
++++ b/.idea/.gitignore	(date 1747305111158)
+@@ -0,0 +1,8 @@
++# Default ignored files
++/shelf/
++/workspace.xml
++# Editor-based HTTP Client requests
++/httpRequests/
++# Datasource local storage ignored files
++/dataSources/
++/dataSources.local.xml
+Index: .idea/inspectionProfiles/profiles_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/inspectionProfiles/profiles_settings.xml b/.idea/inspectionProfiles/profiles_settings.xml
+new file mode 100644
+--- /dev/null	(date 1747305111171)
++++ b/.idea/inspectionProfiles/profiles_settings.xml	(date 1747305111171)
+@@ -0,0 +1,6 @@
++<component name="InspectionProjectProfileManager">
++  <settings>
++    <option name="USE_PROJECT_PROFILE" value="false" />
++    <version value="1.0" />
++  </settings>
++</component>
+\ No newline at end of file
+Index: .idea/PPNC_Nhom4.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/PPNC_Nhom4.iml b/.idea/PPNC_Nhom4.iml
+new file mode 100644
+--- /dev/null	(date 1747305111184)
++++ b/.idea/PPNC_Nhom4.iml	(date 1747305111184)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<module type="PYTHON_MODULE" version="4">
++  <component name="NewModuleRootManager">
++    <content url="file://$MODULE_DIR$" />
++    <orderEntry type="jdk" jdkName="Python 3.13" jdkType="Python SDK" />
++    <orderEntry type="sourceFolder" forTests="false" />
++  </component>
++</module>
+\ No newline at end of file
+Index: .idea/modules.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/modules.xml b/.idea/modules.xml
+new file mode 100644
+--- /dev/null	(date 1747305111192)
++++ b/.idea/modules.xml	(date 1747305111192)
+@@ -0,0 +1,8 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="ProjectModuleManager">
++    <modules>
++      <module fileurl="file://$PROJECT_DIR$/.idea/PPNC_Nhom4.iml" filepath="$PROJECT_DIR$/.idea/PPNC_Nhom4.iml" />
++    </modules>
++  </component>
++</project>
+\ No newline at end of file
+Index: .idea/misc.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/misc.xml b/.idea/misc.xml
+new file mode 100644
+--- /dev/null	(date 1747305111208)
++++ b/.idea/misc.xml	(date 1747305111208)
+@@ -0,0 +1,7 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="Black">
++    <option name="sdkName" value="Python 3.13" />
++  </component>
++  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.13" project-jdk-type="Python SDK" />
++</project>
+\ No newline at end of file
+Index: .idea/vcs.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/vcs.xml b/.idea/vcs.xml
+new file mode 100644
+--- /dev/null	(date 1747305111223)
++++ b/.idea/vcs.xml	(date 1747305111223)
+@@ -0,0 +1,6 @@
++<?xml version="1.0" encoding="UTF-8"?>
++<project version="4">
++  <component name="VcsDirectoryMappings">
++    <mapping directory="" vcs="Git" />
++  </component>
++</project>
+\ No newline at end of file
