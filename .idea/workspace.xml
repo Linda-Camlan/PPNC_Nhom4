@@ -4,62 +4,56 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bcacefce-6240-4177-99aa-1358bd2ed7c9" name="Changes" comment="Đây là code của Minh Trí">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="a938f131-5c6e-4dbf-a618-543bebd06082" name="Changes" comment="Đây là code của Minh Trí">
+      <change afterPath="$PROJECT_DIR$/.idea/crawldatausingx.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="Git.Rebase.Settings">
-    <option name="NEW_BASE" value="master" />
-  </component>
-  <component name="Git.Settings">
-    <option name="PREVIOUS_COMMIT_AUTHORS">
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Acer &lt;acer@laptop-07bfdn28&gt;" />
+        <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Huyen" />
+        <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;history&quot;: [
-    {
-      &quot;searchQuery&quot;: &quot;master&quot;,
-      &quot;state&quot;: &quot;OPEN&quot;,
-      &quot;assignee&quot;: &quot;NgocHuyen2309&quot;
-    }
-  ],
-  &quot;lastFilter&quot;: {}
-}</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Linda-Camlan/PPNC_Nhom4.git&quot;,
-    &quot;accountId&quot;: &quot;d00b49af-23f5-479f-bda5-f7a6b381ed3e&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Linda-Camlan/PPNC_Nhom4.git",
+    "accountId": "3776098f-ba37-4c99-a3ca-2935fc432ef9"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 0
+  &quot;associatedIndex&quot;: 8
 }</component>
-  <component name="ProjectId" id="2x7qADEvMI2cSuXwrXfvOLdRAz3" />
+  <component name="ProjectId" id="2x5fuIyavabeXiyaZmEhNiPyVv7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.code.executor": "Run",
     "Python.code1.1.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
+    "git-widget-placeholder": "Minh-Trí",
+    "ignore.virus.scanning.warn.message": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -71,38 +65,37 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
-        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
+        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
       </set>
     </attachedChunks>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bcacefce-6240-4177-99aa-1358bd2ed7c9" name="Changes" comment="" />
-      <created>1747299314451</created>
+      <changelist id="a938f131-5c6e-4dbf-a618-543bebd06082" name="Changes" comment="" />
+      <created>1747233076004</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1747299314451</updated>
-      <workItem from="1747299315816" duration="5733000" />
-      <workItem from="1747307492823" duration="21000" />
-      <workItem from="1747565560179" duration="1951000" />
-      <workItem from="1747567668830" duration="2875000" />
+      <updated>1747233076004</updated>
+      <workItem from="1747233077084" duration="1826000" />
+      <workItem from="1747253295512" duration="6541000" />
     </task>
     <task id="LOCAL-00001" summary="Đây là code của Minh Trí">
       <option name="closed" value="true" />
-      <created>1747304950725</created>
+      <created>1747260387268</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1747304950725</updated>
+      <updated>1747260387268</updated>
     </task>
     <task id="LOCAL-00002" summary="Đây là code của Minh Trí">
       <option name="closed" value="true" />
-      <created>1747569237274</created>
+      <created>1747260395721</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1747569237274</updated>
+      <updated>1747260395721</updated>
     </task>
     <option name="localTasksCounter" value="3" />
     <servers />
@@ -112,9 +105,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Đây là code của Minh Trí" />
-    <option name="LAST_COMMIT_MESSAGE" value="Đây là code của Minh Trí" />
+    <MESSAGE value="Đây là code của Minh Trí&#10;Còn cái file CVS mn đừng đọc kẻo hỏng mắt, tại cái đó là lúc Minh Trí đang thử code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Đây là code của Minh Trí&#10;Còn cái file CVS mn đừng đọc kẻo hỏng mắt, tại cái đó là lúc Minh Trí đang thử code" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/PPNC_Nhom4$code1_1.coverage" NAME="code1.1 Coverage Results" MODIFIED="1747301362149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawldatausingx$code.coverage" NAME="code Coverage Results" MODIFIED="1747233568116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crawldatausingx$code1_1.coverage" NAME="code1.1 Coverage Results" MODIFIED="1747253333709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
