@@ -18,7 +18,7 @@ embeddings = np.array(embeddings)
 # embeddings = pca.fit_transform(embeddings)
 
 # Bước 3: Tạo mô hình BERTopic (dùng embedding từ PhoBERT)
-topic_model = BERTopic(language="multilingual", verbose=True) #
+topic_model = BERTopic(min_topic_size=5 ,language="multilingual", verbose=True) #
 topics, probs = topic_model.fit_transform(docs, embeddings)
 topic_model.save("bertopic_phobert_model")
 print("\n✅ Đã lưu mô hình BERTopic vào thư mục: bertopic_phobert_model")

@@ -56,4 +56,4 @@ topic_model.visualize_barchart(top_n_topics=10).show()
 
 # (Tùy chọn) Lưu HTML
 topic_model.visualize_barchart(top_n_topics=10).write_html("barchart_keywords.html")
-topic_model.visualize_topics().write_html("topic_map.html")
+topic_model.visualize_heatmap().write_html("topic_map.html")
