@@ -2,13 +2,13 @@ import pandas as pd
 from bertopic import BERTopic
 import matplotlib.pyplot as plt
 import seaborn as sns
-
 # =============================
 # 1. Load mô hình và dữ liệu
 # =============================
 
 # Load mô hình BERTopic đã lưu
 topic_model = BERTopic.load("bertopic_phobert_model")
+
 
 # Đọc file info
 df = pd.read_csv("document_topic_info.csv", encoding="utf-8-sig")
@@ -54,6 +54,8 @@ print("\n📌 Đang tạo biểu đồ từ khóa đại diện mỗi topic...")
 # Hiển thị interactive plot (plotly)
 topic_model.visualize_barchart(top_n_topics=10).show()
 
+
 # (Tùy chọn) Lưu HTML
 topic_model.visualize_barchart(top_n_topics=10).write_html("barchart_keywords.html")
 topic_model.visualize_heatmap().write_html("topic_map.html")
+

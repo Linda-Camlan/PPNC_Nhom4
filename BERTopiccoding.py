@@ -18,7 +18,7 @@ embeddings = np.array(embeddings)
 # embeddings = pca.fit_transform(embeddings)
 
 # Bước 3: Tạo mô hình BERTopic (dùng embedding từ PhoBERT)
-topic_model = BERTopic(min_topic_size=5 ,language="multilingual", verbose=True) #
+topic_model = BERTopic(min_topic_size=4 ,language="multilingual", verbose=True) #
 topics, probs = topic_model.fit_transform(docs, embeddings)
 topic_model.save("bertopic_phobert_model")
 print("\n✅ Đã lưu mô hình BERTopic vào thư mục: bertopic_phobert_model")
@@ -27,7 +27,7 @@ print("\n✅ Đã lưu mô hình BERTopic vào thư mục: bertopic_phobert_mode
 # Bước 4: In ra 5 chủ đề phổ biến nhất
 print("\n📌 Top 5 chủ đề được phát hiện:")
 print(topic_model.get_topic_info().head())
-print(topic_model.get_topic(3))
+print(topic_model.get_topic(1))
 doc_info = topic_model.get_document_info(docs)
 doc_info.to_csv("document_topic_info.csv", index=False, encoding='utf-8-sig')
 print("\n✅ Đã lưu chi tiết văn bản và chủ đề vào file: document_topic_info.csv")
